@@ -1,4 +1,4 @@
-# Hi there, I'm Ayabonga, or technically, Aya. 👋
+# Hi there, I'm Ayabonga! Or technically, Aya. 👋
 
 ## About Me 🚀
 
