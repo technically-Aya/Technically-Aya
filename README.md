@@ -7,6 +7,5 @@ I'm transitioning from a hobbyist coder. From fun tinkering with an array of ind
 - 🌱 Currently learning: ROS2, Development tools
 - 🔭 Working on: Mastering foundations of Robotic Software Development
 - 👩🏾‍💻 Computer Languages: Python, C++, Matlab
-- 🌍 Human Languages: English, IsiZulu, French
-- 📫 How to reach me: ayabongamancwane@gmail.com
+- 🌍 Human Languages: English, IsiZulu
 - ⚡ Fun fact: I think listening to music in the gym is overrated 😅
